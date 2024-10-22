@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ErrorHandling</string>
+    <string name="the_request_timed_out">Request time Out</string>
+    <string name="youve_hit_your_rate_limit">youve_hit_your_rate_limit\n</string>
+    <string name="no_internet">no_internet</string>
+    <string name="file_too_large">file_too_large</string>
+    <string name="server_error">server_error\n</string>
+    <string name="error_serialization">error_serialization\n</string>
+    <string name="unknown_error">unknown_error</string>
+    <string name="error_disk_full">error_disk_full\n</string>
+</resources>
